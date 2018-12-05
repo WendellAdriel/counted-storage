@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "extends": "standard",
+  "globals": {
+    "afterEach": true,
+    "describe": true,
+    "it": true,
+    "expect": true
+  }
+}
