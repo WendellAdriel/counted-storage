@@ -156,7 +156,7 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 [version-badge]: https://img.shields.io/npm/v/counted-storage.svg?style=flat-square
 [package]: https://www.npmjs.com/package/counted-storage
 [size-badge]: http://img.badgesize.io/https://unpkg.com/counted-storage/dist/counted-storage.js?style=flat-square&label=size
-[unpkg-dist]: https://unpkg.com/counted-storage/dist/
+[unpkg-dist]: https://unpkg.com/counted-storage/dist/counted-storage.js
 [gzip-badge]: http://img.badgesize.io/https://unpkg.com/counted-storage/dist/counted-storage.js?label=gzip%20size&style=flat-square&compression=gzip
 [github-watch-badge]: https://img.shields.io/github/watchers/WendellAdriel/counted-storage.svg?style=social
 [github-watch]: https://github.com/WendellAdriel/counted-storage/watchers
